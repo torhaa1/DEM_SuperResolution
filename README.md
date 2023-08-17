@@ -1,8 +1,7 @@
 # DEM Super-Resolution
 
 ## Project Description
-This repository explores upscaling of Digital Elevation Model (DEM) data using a state-of-the-art super-resolution model.
-
+This repository explores upscaling of Digital Elevation Model (DEM) data using a state-of-the-art super-resolution model.   
 The model used is from the 2023 paper, *"A Global-Information-Constrained Deep Learning Network for Digital Elevation Model Super-Resolution."* [Link to paper](https://www.mdpi.com/2072-4292/15/2/305).
 The article demonstrated the model's ability in enhancing the resolution of DEM data beyond traditional bicubic interpolation methods, which are often considered the baseline to beat for super-resolution models on DEM data.
 
